@@ -2,8 +2,6 @@
   <img src="./yomu.png" alt="Yu — Mascote da Yomu" width="200"/>
 </div>
 
----
-
 Opa, aqui é o Pier!
 
 Valeu pelo interesse em contribuir com a Yomu. Se você chegou até aqui, já fico feliz, sinal de que você curtiu a ideia e quer participar.
