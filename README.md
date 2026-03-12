@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./yu.png" alt="Yu — Mascote da Yomu" width="200"/>
+  <img src="./yopmu.png" alt="Yu — Mascote da Yomu" width="200"/>
 </div>
 
 ---
